@@ -5,7 +5,8 @@
 
 ## 🔧 Technologies & Skills  
 - C++  
-- Object-Oriented Programming  
+- Object-Oriented Programming
+- Graphical User Interface (via SFML)
 
 ## 🌟 Featured Projects  
 - BattleShips (https://github.com/waleedhkirmani/battleShips) - Battleships is a grid-based strategy game where players take turns guessing the locations of enemy ships. Built with a structured approach in C++, it features a simple yet engaging gameplay loop, efficient grid management, and turn-based mechanics.  
