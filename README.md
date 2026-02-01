@@ -1,31 +1,24 @@
-# Hi, I'm Waleed Hassan
-Full-Stack Developer (MERN) | C++ Developer | Problem Solver  
+<h2>Waleed Hassan</h2>
 
-## Technologies & Skills  
-- C++  
-- SFML
-- HTML
-- CSS
-- Javascript
-- React.js
-- Node.js
-- MongoDB
-- SQLite
-- Python
+<p>
+Full-Stack (MERN) · C++ / SFML · Automation
+</p>
 
-📫 Reach me at waleedhassankirmani@gmail.com  
+---
 
-<!--
-**waleedhkirmani/waleedhkirmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=cpp,js,python,react,nodejs,mongodb,sqlite,html,css&theme=light" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+I build web apps, backend systems, and C++ projects.  
+Currently focused on automation, integrations, and practical AI workflows.
+
+---
+
+### Contact
+
+📧 waleedhassankirmani@gmail.com
